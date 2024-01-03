@@ -11,3 +11,4 @@ Set of instructions are shared in the colab.
 - Lip sync the synthesized audio with the original video clip (Moviepy)<br>
 
 Any errors caused can reach me out at venkatavinayvijjapu@gmail.com
+<br> You can check out the input and outputs at https://www.dropbox.com/scl/fo/9icq1vwhnge4f14c4jvt6/h?rlkey=db1yof5tya7f3oajvei01csxn&dl=0 
