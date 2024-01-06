@@ -15,4 +15,5 @@ Any errors caused can reach me out at venkatavinayvijjapu@gmail.com
 
 
 # Note:
-<br>If you want to add new language then Just add the language and it's ISO-639 code in the code.<br> There are total 100+ languages available in internet. 
+<br>There are multiple languages available in the market but Only a few are accepted by Text-To-Speech module.
+<br> These are the list of languages ['en', 'es', 'fr', 'de', 'it', 'pt', 'pl', 'tr', 'ru', 'nl', 'cs', 'ar', 'zh-cn', 'hu', 'ko', 'ja', 'hi']
